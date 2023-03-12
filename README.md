@@ -1,2 +1,2 @@
-# cssBayan
-RS_school Task: CSS Bayan
+
+https://Hrulia.github.io/cssBayan/cssBayan/index.html
